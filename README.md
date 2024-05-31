@@ -1,2 +1,3 @@
-# basic-python-projects-for-beginners
-This projects is for learning basic python for beginners
+# Basic-Python-projects-for-beginners
+ Hi guys
+ This projects are python source code for beginners
